@@ -1,0 +1,18 @@
+Here is my best attempt to describe the base-12 calulator:
+Large buttons, easy to use, friendly design.
+Has all the numerals 0,1,2,3,4,5,6,7,8,9,A,B,(), and a decimal place .
+The numerals A and B could possibly be switched. X for the A, and an inverted 3 for the B. Numeral three should then have a flat top. 
+The mathematical functions are only +, -, *, /, and =
+There is a clear button to clear the screen.
+There is a delete button to delete the previous input.
+There is a display that can accommodate four rows of numbers, each 24-30 characters in length.
+When a large calculation is performed and the answer is longer than the four rows of digits, the screen can be scrolled down to reveal the answer. 
+Screen scroll down also reveals previous calculations.
+Very large calucations can be performed where numbers up to 1000 numerals may be accomodated under the scroll down screen.
+Math questions and answers are different colours, question = white, answer = yellow.
+Math symbols +,-,*,/ are blue.
+Question takes place upper left of screen, which is top row of the four rows of numerals.
+Answer appears bottom right of the screen, which is the bottom row of the four rows, and just above the scroll down screen.
+Answers can be used to perform next function, where +,-,*,/ can be applied to the answer to the previous equation.
+Invalid questions or input results in: "Invalid Format" response.
+Answers with repeating decimals are not rounded off after a short length but go for 120 iterations before ending.
